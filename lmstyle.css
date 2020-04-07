@@ -1,0 +1,29 @@
+/* CSS Document */
+
+.myheader {
+	color: crimson;
+}
+
+.lmpicdisplay{
+	width:200;
+}
+
+.alm{
+
+
+float: left;	
+margin: 20px;
+padding: 6px;
+background-color: grey;
+
+}
+
+.myfooter{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	//background-color: red;
+	color: white;
+	text-align: center;
+}
